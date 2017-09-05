@@ -1,20 +1,6 @@
-<!DOCTYPE html>
-<html>
-	<head>
-	</head>
-	<body>
-		<h1>WAP Sept 2017 - Wiki</h1>
 
-		<h2>
-			Class Info:
-		</h2>
-		<ul>
-			<li><strong>Professor Name: </strong> Obinna Kalu</li>
-			<li><strong>Professor Email: </strong> <a href="mailto:okalu@mum.edu">okalu@mum.edu</a></li>
+Fork this repo to update it.
 
-			<li><strong>TA Name: </strong> Andres Cala</li>
-			<li><strong>TA Email: </strong> <a href="mailto:acala@mum.edu">acala@mum.edu</a></li>
-		</ul>
+If you just want to see it, you can access on this URL:
 
-	</body>
-</html>
+andrescala.github.io/WAP-Sep2017-Wiki
