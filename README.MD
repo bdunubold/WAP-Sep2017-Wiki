@@ -1,10 +1,20 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>WAP Sept 2017 - Wiki</title>
 	</head>
 	<body>
 		<h1>WAP Sept 2017 - Wiki</h1>
-	</body>
 
+		<h2>
+			Class Info:
+		</h2>
+		<ul>
+			<li><strong>Professor Name: </strong> Obinna Kalu</li>
+			<li><strong>Professor Email: </strong> <a href="mailto:okalu@mum.edu">okalu@mum.edu</a></li>
+
+			<li><strong>TA Name: </strong> Andres Cala</li>
+			<li><strong>TA Email: </strong> <a href="mailto:acala@mum.edu">acala@mum.edu</a></li>
+		</ul>
+
+	</body>
 </html>
