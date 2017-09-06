@@ -35,7 +35,7 @@ You get 6 months of Amazon Prime free when registering with your @mum.edu email,
 
 #### Spotify
 
-<a href="https://www.spotify.com/us/student/"> Spotify for students 50% off </a>
+<a href="https://www.spotify.com/us/student/"> Spotify for students </a>
 
 Get spotify premium 50% off.
 
@@ -59,18 +59,24 @@ Get spotify premium 50% off.
 <a href="https://en.wikipedia.org/wiki/Content_delivery_network"> What's a CDN?</a>
 
 Bootstrap CSS (V. 3.3.7) : https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css
+
 Bootstrap JS (V. 3.3.7): https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js
+
 JQuery : There are different versions and multiple libraries here: <a href="https://code.jquery.com/"> https://code.jquery.com/</a>
+
 AnimateCSS : <a href="https://daneden.github.io/animate.css/">https://daneden.github.io/animate.css/</a>
+
 
 ## Other tools commonly used on front end Development
 
 Font Awesome: <a href="http://fontawesome.io/"> http://fontawesome.io/ </a>
+
 Google Fonts: <a href="https://fonts.google.com/"> https://fonts.google.com/ </a>
 
 #### Most trendy Frameworks/Libraries/Technologies for Front-end these days:
 
 React - <a href="https://facebook.github.io/react/">https://facebook.github.io/react/</a>
+
 You can check all the libraries around React like ReactDOM, React Animations, React Native (Compiles as Native Mobile Apps).
 
 AngularJS - <a href="https://angular.io/">https://angular.io/</a>
@@ -83,4 +89,14 @@ D3 (Data visualization) - <a href="https://d3js.org/">https://d3js.org/</a>
 ## Javascript package managers
 
 NPM (For Node) <a href="https://www.npmjs.com/">https://www.npmjs.com/</a>
+
 Bower: <a href="https://bower.io/">https://bower.io/</a>
+
+
+## Best Tutorial Channels on Youtube (for me)
+
+<a href="https://www.youtube.com/user/TechGuyWeb/playlists">https://www.youtube.com/user/TechGuyWeb/playlists</a>
+
+<a href="https://www.youtube.com/user/derekbanas/playlists">https://www.youtube.com/user/derekbanas/playlists</a>
+
+<a href="https://www.youtube.com/user/learncodeacademy/playlists">https://www.youtube.com/user/learncodeacademy/playlists</a>
